@@ -1,0 +1,14 @@
+{
+  "title": "我的多語言程式",
+  "@title": {
+    "description": "Application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "textButtonTappedCount": "你的按鍵次數:",
+  "@textButtonTappedCount": {
+    "description": "Text for button tapped count",
+    "type": "text",
+    "placeholders": {}
+  }
+}

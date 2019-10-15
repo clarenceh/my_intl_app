@@ -1,0 +1,15 @@
+{
+  "@@last_modified": "2019-10-15T15:05:24.585780",
+  "title": "My International Application",
+  "@title": {
+    "description": "Application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "textButtonTappedCount": "No. of times the button was clicked:",
+  "@textButtonTappedCount": {
+    "description": "Text for button tapped count",
+    "type": "text",
+    "placeholders": {}
+  }
+}
